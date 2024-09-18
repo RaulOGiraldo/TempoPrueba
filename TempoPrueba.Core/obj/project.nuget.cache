@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3vjBjM00WdxhnrVla2R+WvEHaCOO8jjVG+n8mBRIn/Xrv0ta++Qvyy+ZujtFmMVaDXv+z9MS5/9WOuA+QKYvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programas Visual Studio 2022\\TempoPrueba\\TempoPrueba.Core\\TempoPrueba.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\mongodb.bson\\2.28.0\\mongodb.bson.2.28.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
